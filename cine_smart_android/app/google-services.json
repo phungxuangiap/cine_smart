@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022676495166",
+    "project_id": "cinesmart-a3da2",
+    "storage_bucket": "cinesmart-a3da2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022676495166:android:244db67efa484797a59a6f",
+        "android_client_info": {
+          "package_name": "com.example.cinesmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9rsnoaiSZthCKIPk1OyLmW6eZUxem1Vc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
